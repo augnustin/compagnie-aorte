@@ -1,0 +1,48 @@
+[
+    {
+        "id_piece": "ours",
+        "nom_piece": "L'Ours",
+        "representations": [
+            {
+                "lieu": "Théâtre de la Reine Blanche",
+                "dates": [
+                    "14 Avril 2013",
+                    "14 Mai 2013"
+                ]
+            },
+            {
+                "lieu": "Avignon",
+                "dates": [
+                    "21 Juillet 2013",
+                    "25 Juillet 2013"
+                ]
+            }
+        ]
+    },
+    {
+        "id_piece": "manege",
+        "nom_piece": "Manège",
+        "representations": [
+            {
+                "lieu": "Théâtre de la Reine Blanche",
+                "dates": [
+                    "14 Avril 2013",
+                    "14 Mai 2013"
+                ]
+            }
+        ]
+    },
+    {
+        "id_piece": "stabat_pater",
+        "nom_piece": "Stabat Pater",
+        "representations": [
+            {
+                "lieu": "Théâtre de la Reine Blanche",
+                "dates": [
+                    "14 Avril 2013",
+                    "14 Mai 2013"
+                ]
+            }
+        ]
+    }
+]

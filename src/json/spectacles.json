@@ -1,0 +1,204 @@
+{
+    "categories": [
+        {
+            "id": "classique",
+            "libelle": "Texte Classique",
+            "spectacles": [
+                {
+                    "id": "ours",
+                    "nom": "L'ours"
+                }
+            ]
+        },
+        {
+            "id": "creations",
+            "libelle": "Créations",
+            "spectacles": [
+                {
+                    "id": "manege",
+                    "nom": "Manège"
+                },
+                {
+                    "id": "stabat_pater",
+                    "nom": "Stabat Pater"
+                }
+            ]
+        },
+        {
+            "id": "jeune",
+            "libelle": "Jeune Public",
+            "spectacles": [
+                {
+                    "id": "contes_chateau",
+                    "nom": "Contes Château"
+                }
+            ]
+        }
+    ],
+    "spectacles": [
+        {
+            "id": "ours",
+            "nom": "L'ours",
+            "auteur": "d'Anthon Tchekov",
+            "mise-en-scene": "Mise en scène collective",
+            "description": "L'ours est une pièce datant de 1856, et jouée pour la première fois à St Pétersbourg le 1er Mars de la même année. L'ours est une pièce datant de 1856, et jouée pour la première fois à St Pétersbourg le 1er Mars de la même année. L'ours est une pièce datant de 1856, et jouée pour la première fois à St Pétersbourg le 1er Mars de la même année. L'ours est une pièce datant de 1856, et jouée pour la première fois à St Pétersbourg le 1er Mars de la même année. L'ours est une pièce datant de 1856, et jouée pour la première fois à St Pétersbourg le 1er Mars de la même année. L'ours est une pièce datant de 1856, et jouée pour la première fois à St Pétersbourg le 1er Mars de la même année. L'ours est une pièce datant de 1856, et jouée pour la première fois à St Pétersbourg le 1er Mars de la même année.",
+            "affiche": "spectacles/ours/affiche/afficheourssite.jpg",
+            "dossier": "spectacles/ours/pdf/lours.pdf",
+            "equipe": [
+                {
+                    "nom": "Sébastien LELAIRE",
+                    "nom-perso": "Smirnov",
+                    "role": "Comédien <br /> Mise en scène",
+                    "image-perso": "spectacles/ours/persos/smirnov.jpg",
+                    "image-comedien": "spectacles/ours/comediens/seb.jpg",
+                    "cv-pdf": "spectacles/ours/persos/smirnov-cv.pdf",
+                    "cv-image": "spectacles/ours/persos/smirnov-cv.jpg",
+                    "cv-video-id": "57927567"
+                },
+                {
+                    "nom": "Sarah KLEIN",
+                    "nom-perso": "Femme",
+                    "role": "Comédien <br /> Mise en scène",
+                    "image-perso": "spectacles/ours/persos/femme.jpg",
+                    "image-comedien": "spectacles/ours/comediens/sarah.jpg",
+                    "cv-pdf": "spectacles/ours/persos/smirnov-cv.pdf",
+                    "cv-image": "spectacles/ours/persos/femme-cv.jpg",
+                    "cv-video-id": "57927567"
+                },
+                {
+                    "nom": "Nadège CATHELINEAU",
+                    "nom-perso": "Valet",
+                    "role": "Comédien <br /> Mise en scène",
+                    "image-perso": "spectacles/ours/persos/valet.jpg",
+                    "image-comedien": "spectacles/ours/comediens/nadege.jpg",
+                    "cv-pdf": "spectacles/ours/persos/smirnov-cv.pdf",
+                    "cv-image": "spectacles/ours/persos/valet-cv.jpg",
+                    "cv-video-id": "57927567"
+                }
+            ]
+        },
+        {
+            "id": "manege",
+            "nom": "Manège",
+            "auteur": "de Nadège Cathelineau",
+            "mise-en-scene": "Mise en scène collective",
+            "description": "<h4>Manège</h4> Tout d'abord c'est une histoire de liens. Liens tissés entre de jeunes créateurs qui ont eu l'envie (comme quasi nécessité) de travailler ensemble. Histoire d'une forme qui s'est emparée de nous à force de recherches, d'essais, de discussions. Puis c'est un combat. Celui de dire que nous sommes jeunes et que nous avons la force de nous battre, nous avons des bras costauds comme des géants, comme une armée de géants, et nous ferons vivre ce théâtre, le nôtre et celui de tous. Car comment ne le serait-il pas ?<br /> Nous sortons de l'enfance et nous parlons de l'enfance. Nous parlons de notre génération avec nos mots, nos maux et nous la rendons officielle. Nous nous adressons aux jeunes qui pourront enfin se sentir concerner par un théâtre qui les représente. Nous nous adressons aux parents qui pourront enfin connaître leurs enfants. Nous nous adressons aux vieux pour leur dire : nous voici, et notre bouche est décousue.<br /> Nous réclamons des comptes à la vie. Et nous ferons entendre ce cri qui en rassemble tellement d'autres.<br /> Manège c'est deux cent gaufres et deux cent parts de gâteaux. C'est un cube qui tourne jusqu'à vous en donner le tournis. C'est comment chacun de nous, dans notre équipe, là où nous en sommes et avec les moyens que nous avons, est capable de se salir les mains pour faire vivre ce spectacle.",
+            "affiche": "spectacles/manege/affiche/manege.jpg",
+            "dossier": "spectacles/manege/pdf/manege.pdf",
+            "equipe": [
+                {
+                    "nom": "Sarah KLEIN",
+                    "nom-perso": "Femme",
+                    "role": "Comédien <br /> Mise en scène",
+                    "image-perso": "spectacles/manege/persos/femme.jpg",
+                    "image-comedien": "spectacles/manege/comediens/sarah.jpg",
+                    "cv-pdf": "spectacles/ours/persos/smirnov-cv.pdf",
+                    "cv-image": "spectacles/manege/persos/femme-cv.jpg",
+                    "cv-video-id": "57927567"
+                },
+                {
+                    "nom": "Sébastien LELAIRE",
+                    "nom-perso": "Smirnov",
+                    "role": "Comédien <br /> Mise en scène",
+                    "image-perso": "spectacles/manege/persos/smirnov.jpg",
+                    "image-comedien": "spectacles/manege/comediens/seb.jpg",
+                    "cv-pdf": "spectacles/ours/persos/smirnov-cv.pdf",
+                    "cv-image": "spectacles/manege/persos/smirnov-cv.jpg",
+                    "cv-video-id": "57927567"
+                },
+                {
+                    "nom": "Nadège CATHELINEAU",
+                    "nom-perso": "Valet",
+                    "role": "Comédien <br /> Mise en scène",
+                    "image-perso": "spectacles/manege/persos/valet.jpg",
+                    "image-comedien": "spectacles/manege/comediens/nadege.jpg",
+                    "cv-pdf": "spectacles/ours/persos/smirnov-cv.pdf",
+                    "cv-image": "spectacles/manege/persos/valet-cv.jpg",
+                    "cv-video-id": "57927567"
+                }
+            ]
+        },
+        {
+            "id": "stabat_pater",
+            "nom": "Stabat Pater",
+            "auteur": "d'Anthon Tchekov",
+            "mise-en-scene": "Mise en scène collective",
+            "description": "L'ours est une pièce datant de 1856, et jouée pour la première fois à St Pétersbourg le 1er Mars de la même année.",
+            "affiche": "spectacles/stabat_pater/affiche/afficheourssite.jpg",
+            "dossier": "spectacles/stabat_pater/pdf/lours.pdf",
+            "equipe": [
+                {
+                    "nom": "Nadège CATHELINEAU",
+                    "nom-perso": "Valet",
+                    "role": "Comédien <br /> Mise en scène",
+                    "image-perso": "spectacles/stabat_pater/persos/valet.jpg",
+                    "image-comedien": "spectacles/stabat_pater/comediens/nadege.jpg",
+                    "cv-pdf": "spectacles/ours/persos/smirnov-cv.pdf",
+                    "cv-image": "spectacles/stabat_pater/persos/valet-cv.jpg",
+                    "cv-video-id": "57927567"
+                },
+                {
+                    "nom": "Sébastien LELAIRE",
+                    "nom-perso": "Smirnov",
+                    "role": "Comédien <br /> Mise en scène",
+                    "image-perso": "spectacles/stabat_pater/persos/smirnov.jpg",
+                    "image-comedien": "spectacles/stabat_pater/comediens/seb.jpg",
+                    "cv-pdf": "spectacles/ours/persos/smirnov-cv.pdf",
+                    "cv-image": "spectacles/stabat_pater/persos/smirnov-cv.jpg",
+                    "cv-video-id": "57927567"
+                },
+                {
+                    "nom": "Sarah KLEIN",
+                    "nom-perso": "Femme",
+                    "role": "Comédien <br /> Mise en scène",
+                    "image-perso": "spectacles/stabat_pater/persos/femme.jpg",
+                    "image-comedien": "spectacles/stabat_pater/comediens/sarah.jpg",
+                    "cv-pdf": "spectacles/ours/persos/smirnov-cv.pdf",
+                    "cv-image": "spectacles/stabat_pater/persos/femme-cv.jpg",
+                    "cv-video-id": "57927567"
+                }
+            ]
+        },
+        {
+            "id": "contes_chateau",
+            "nom": "Contes Château",
+            "auteur": "de Sarah KLEIN",
+            "mise-en-scene": "Mise en scène collective",
+            "description": "L'ours est une pièce datant de 1856, et jouée pour la première fois à St Pétersbourg le 1er Mars de la même année.",
+            "affiche": "spectacles/stabat_pater/affiche/afficheourssite.jpg",
+            "dossier": "spectacles/stabat_pater/pdf/lours.pdf",
+            "equipe": [
+                {
+                    "nom": "Nadège CATHELINEAU",
+                    "nom-perso": "Valet",
+                    "role": "Comédien <br /> Mise en scène",
+                    "image-perso": "spectacles/stabat_pater/persos/valet.jpg",
+                    "image-comedien": "spectacles/stabat_pater/comediens/nadege.jpg",
+                    "cv-pdf": "spectacles/ours/persos/smirnov-cv.pdf",
+                    "cv-image": "spectacles/stabat_pater/persos/valet-cv.jpg",
+                    "cv-video-id": "57927567"
+                },
+                {
+                    "nom": "Sébastien LELAIRE",
+                    "nom-perso": "Smirnov",
+                    "role": "Comédien <br /> Mise en scène",
+                    "image-perso": "spectacles/stabat_pater/persos/smirnov.jpg",
+                    "image-comedien": "spectacles/stabat_pater/comediens/seb.jpg",
+                    "cv-pdf": "spectacles/ours/persos/smirnov-cv.pdf",
+                    "cv-image": "spectacles/stabat_pater/persos/smirnov-cv.jpg",
+                    "cv-video-id": "57927567"
+                },
+                {
+                    "nom": "Sarah KLEIN",
+                    "nom-perso": "Femme",
+                    "role": "Comédien <br /> Mise en scène",
+                    "image-perso": "spectacles/stabat_pater/persos/femme.jpg",
+                    "image-comedien": "spectacles/stabat_pater/comediens/sarah.jpg",
+                    "cv-pdf": "spectacles/ours/persos/smirnov-cv.pdf",
+                    "cv-image": "spectacles/stabat_pater/persos/femme-cv.jpg",
+                    "cv-video-id": "57927567"
+                }
+            ]
+        }
+    ]
+}

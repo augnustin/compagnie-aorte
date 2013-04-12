@@ -1,0 +1,172 @@
+[
+    {
+        "spectacle-nom": "L'ours",
+        "spectacle-id": "ours",
+        "photos": [
+            {
+                "src": "001.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "002.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "003.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "004.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "005.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "006.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "007.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "008.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "009.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "010.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "011.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "012.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "013.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "014.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "015.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "016.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "017.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "018.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "019.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "020.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "021.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "022.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "023.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "024.jpg",
+                "title": "Avigno 2012"
+            },
+            {
+                "src": "025.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "026.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "027.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "028.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "029.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "030.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "031.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "032.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "033.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "034.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "035.jpg",
+                "title": "Avignon 2012"
+            },
+            {
+                "src": "036.jpg",
+                "title": "Avignon 2012"
+            }
+        ]
+    },
+    {
+        "spectacle-nom": "Manège",
+        "spectacle-id": "manege",
+        "photos": [
+            {
+                "src": "001.jpg",
+                "title": "Avignon 2012"
+            }
+        ]
+    },
+    {
+        "spectacle-nom": "Stabat Pater",
+        "spectacle-id": "stabat_pater",
+        "photos": [
+            {
+                "src": "001.jpg",
+                "title": "Avignon 2012"
+            }
+        ]
+    }
+]
